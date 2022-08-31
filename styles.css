@@ -1,0 +1,39 @@
+body {
+    background-color: lightgray;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif
+}
+.caja-1 { 
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+.caja-2{
+    margin-top: 50px;
+    margin-left: 440px;
+    margin-right: 420px;
+    
+}
+.arriba {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: white;
+}
+.foto img {
+    height:300px ;
+    width:366px ;
+}
+.abajo p {
+    background-color: white;
+}
+.caja-3 {
+    margin-top: 50px;
+    margin-left: 440px;
+    margin-right: 420px;
+}
+.caja-4 {
+    margin-top: 50px;
+    margin-left: 440px;
+    margin-right: 420px;
+}
